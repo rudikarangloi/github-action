@@ -44,6 +44,7 @@ jobs:
         #   - SETTING -
         #   - SECRET AND VARIABLES - ACTIONS
         #   - NEW REPOSITORY SECRET
+        #   - Masukan akun docker.com
 
     -
       name: Build and push
