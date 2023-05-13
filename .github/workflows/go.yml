@@ -53,3 +53,6 @@ jobs:
         push: true
         tags: rudicatsmile2/belajar-cicd:latest
         # Repo yang ada di decker hub
+        
+# Setelah OK commit github dan secara otomatis Action akan berjalan
+#   dan pada repo docker otomatis terupdate 
