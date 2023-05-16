@@ -53,7 +53,7 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: rudicatsmile2/belajar-cicd:1
+        tags: rudicatsmile2/belajar-cicd
         # Repo yang ada di decker hub
         
 # Setelah OK commit github dan secara otomatis Action akan berjalan
