@@ -54,7 +54,7 @@ jobs:
       with:
         push: true
         # tags: rudicatsmile2/belajar-cicd
-        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/belajar-cicd:${{ github.run_number }}
+        tags: ${{ secrets.DOCKERHUB_USERNAME }}/belajar-cicd:${{ github.run_number }}
         # Repo yang ada di decker hub
         
 # Setelah OK commit github dan secara otomatis Action akan berjalan
